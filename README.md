@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking for a full-time job as a developer
 - 📫 You can reach me on discord aevitas#3295
+- My portfolio: www.vandermeijden.design
 
 <!---
 aevitas1/aevitas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
