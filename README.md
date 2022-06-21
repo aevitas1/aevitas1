@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stephan
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React.JS
-- 💞️ I’m looking for a full-time job as a developer
 - 📫 You can reach me on discord aevitas#3295
 - My portfolio: www.vandermeijden.design
 
