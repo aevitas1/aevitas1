@@ -26,9 +26,9 @@ I am a Front End Developer from the Netherlands.
 
 - :seedling: I am slowly learning back end as I strife to become a Full Stack Developer.
 
-- :zap: In my free time, I enjoy gaming.
+- :video_game: In my free time, I enjoy gaming.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stephan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://nl.linkedin.com/in/stephan-vd-m"))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Stephan-blue?style=flat&logo=Linkedin&logoColor=white)](https://nl.linkedin.com/in/stephan-vd-m"))
 
 ---
 
