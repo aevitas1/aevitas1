@@ -18,7 +18,7 @@
 ---
 
 
-### :man_technologist: About me:.
+### :man_technologist: About me :
 
 I am a Front End Developer from the Netherlands.
 
