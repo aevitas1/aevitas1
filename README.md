@@ -22,8 +22,6 @@
 
 I am a Front End Developer from the Netherlands.
 
-- :telescope: I’m currently looking for a job, while improving my portfolio.
-
 - :seedling: I am slowly learning back end as I strife to become a Full Stack Developer.
 
 - :video_game: In my free time, I enjoy gaming.
