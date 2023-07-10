@@ -50,7 +50,8 @@ I am a Front End Developer from the Netherlands.
 ### Currently working on :
   <div>
      <h3>Diablo Tools</h3>
-     <p>This website is scheduled for release to the public in June, 2023.</p>
+     <p>Creator and maintainer of Diablo Tools (Front-End).</p>
+     <a href="https://diablo-tools.com">Diablo Tools</a>  
      <p>The repository is private.</p>
   </div>
 
