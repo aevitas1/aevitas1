@@ -22,7 +22,7 @@
 
 I am a Front End Developer from the Netherlands.
 
-- :seedling: I am slowly learning back end as I strife to become a Full Stack Developer.
+- :seedling: I am learning back end as I strife to become a Full Stack Developer.
 
 - :video_game: In my free time, I enjoy gaming.
 
@@ -40,23 +40,11 @@ I am a Front End Developer from the Netherlands.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bulma" alt="Bulma" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
   </div>
   
-  ---
-
-### Currently working on :
-  <div>
-     <h3>Diablo Tools</h3>
-     <p>Creator and maintainer of Diablo Tools (Front-End).</p>
-     <a href="https://diablo-tools.com">Diablo Tools</a>  
-     <p>The repository is private.</p>
-  </div>
-
   ---
   
 ### :fire: My Stats :
