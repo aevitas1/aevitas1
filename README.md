@@ -49,7 +49,7 @@ I am a Front End Developer from the Netherlands.
 
   ### :construction_worker: Currently working on:
 
-  <p>Creator and maintainer of:</p> <a href="https://watt-cost.vercel.app/">Watt Costs</a>
+  <p>Creator and maintainer of:</p> <a href="https://watt-cost.vercel.app/" target="_blank">Watt Costs</a>
   
   ---
   
